@@ -1,11 +1,5 @@
 # bmp-lcm
 
-An LCM driver for Adafruit's pressure sensors.
+A quick and dirty LCM wrapper for [this BMP280 driver](https://forums.adafruit.com/viewtopic.php?f=19&t=89049).
 
-
-
-This software is constructed according to the Pods software policies and
-templates.  The policies and templates can be found at:
-
-  http://sourceforge.net/projects/pods
 
