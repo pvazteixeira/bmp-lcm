@@ -1,8 +1,8 @@
-package bmp;
+package bmp_lcm;
 
 struct pressure_t
 {
-  double time;
-  double temperature;
-  double pressure;
+  double time;        // epoch time, in microseconds [us]
+  double temperature; // temperature, in degrees centigrade [degC]
+  double pressure;    // pressure, in hectopascal [hPa]
 }
